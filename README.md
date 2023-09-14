@@ -1,16 +1,69 @@
-### Hi there 👋
+# ASHWANI PRATAP SINGH 👨‍💻
+## SOFTWARE DEVELOPER 🚀
 
-<!--
-**ashwani8090/ashwani8090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here, you'll find a brief overview of my skills, experience, and how to get in touch with me. Feel free to explore my repositories and projects. 🌟
 
-Here are some ideas to get you started:
+## Contact Information 📞📧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Phone**: 📱 7880886868, 7088797590
+- **Email**: 📧 [ashwani8090singh@gmail.com](mailto:ashwani8090singh@gmail.com)
+- **GitHub**: 🌐 [github.com/ashwani8090](https://github.com/ashwani8090)
+- **Address**: 🏠 Fatehgarh, Farrukhabad - 209601
+
+## Expertise 💡🔧
+
+I specialize in a variety of technologies and tools, including but not limited to:
+
+- **React JS**: 🌐 Crafting dynamic and interactive web applications.
+- **React Router and Hooks**: ⚛️ Seamless navigation and state management.
+- **React Native**: 📱 Building cross-platform mobile applications.
+- **Redux Toolkit**: 🧰 Efficient state management for React applications.
+- **Project Management**: 📊 Proficient in Jira and Trello for efficient project tracking.
+- **Version Control**: 🧲 Experienced with Git and Bitbucket.
+- **Development Environment**: 💻 Utilize VS Code and Postman for efficient development and testing.
+- **Analytics**: 📈 Integration with tools like Mixpanel for user analytics.
+- **Authentication**: 🔒 Implementing secure user authentication with Sendgrid, Google, and Facebook Sign-In.
+
+## Education 📚🎓
+
+**Master of Computer Applications (MCA)**
+- 📅 *Nov 2022 - Current*
+- **Aubergine Solutions Pvt. Ltd | Ahmedabad, Gujarat**
+- As an Associate Software Engineer, I work closely with a team of experienced engineers and senior professionals, contributing to the success of software projects. My key responsibilities include:
+  - Collaborating with the development team to write, modify, and debug code for software applications.
+  - Conducting unit testing and debugging activities to ensure the delivery of high-quality software.
+  - Participating in designing and implementing new features or enhancements.
+  - Contributing to technical documentation and working closely with cross-functional teams.
+
+**Bachelor of Science**
+- 📅 *2017 - 2020*
+- **Daffodil Software | Hisar, Haryana**
+
+**Intermediate (High School)**
+- 📅 *2013 - 2014*
+- **Kendriya Vidyalaya R.R.C Fatehgarh**
+
+**High School**
+- 📅 *2011 - 2012*
+- **Kendriya Vidyalaya R.R.C Fatehgarh**
+
+## Experience 💼🌟
+
+In my previous roles, I have excelled in software development and engineering:
+
+- **Associate Software Engineer | Aubergine Solutions Pvt. Ltd | Ahmedabad, Gujarat**
+  - Collaborated with cross-functional teams to deliver high-quality software.
+  - Assisted in testing and debugging activities to ensure reliability.
+  - Contributed to documentation and maintained coding standards.
+  - Kept up-to-date with industry trends and best practices.
+
+- **Jr. Associate - IT | Kanpur University**
+  - Engaged in collaborative efforts with project managers to discern ambitious coding milestones.
+  - Facilitated in-depth discussions with team members to identify and address pertinent issues.
+  - Spearheaded the introduction of agile methodologies and industry-leading development practices to enhance efficiency.
+
+## How to Connect 🤝📬
+
+I'm always open to collaboration and new opportunities. Feel free to reach out to me via email or connect with me on [GitHub](https://github.com/ashwani8090). Let's build something amazing together! 🚀
+
+Thank you for visiting my GitHub profile, and I look forward to connecting with you. 👋
