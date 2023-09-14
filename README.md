@@ -25,28 +25,6 @@ I specialize in a variety of technologies and tools, including but not limited t
 - **Analytics**: 📈 Integration with tools like Mixpanel for user analytics.
 - **Authentication**: 🔒 Implementing secure user authentication with Sendgrid, Google, and Facebook Sign-In.
 
-## Education 📚🎓
-
-**Master of Computer Applications (MCA)**
-- 📅 *Nov 2022 - Current*
-- **Aubergine Solutions Pvt. Ltd | Ahmedabad, Gujarat**
-- As an Associate Software Engineer, I work closely with a team of experienced engineers and senior professionals, contributing to the success of software projects. My key responsibilities include:
-  - Collaborating with the development team to write, modify, and debug code for software applications.
-  - Conducting unit testing and debugging activities to ensure the delivery of high-quality software.
-  - Participating in designing and implementing new features or enhancements.
-  - Contributing to technical documentation and working closely with cross-functional teams.
-
-**Bachelor of Science**
-- 📅 *2017 - 2020*
-- **Daffodil Software | Hisar, Haryana**
-
-**Intermediate (High School)**
-- 📅 *2013 - 2014*
-- **Kendriya Vidyalaya R.R.C Fatehgarh**
-
-**High School**
-- 📅 *2011 - 2012*
-- **Kendriya Vidyalaya R.R.C Fatehgarh**
 
 ## Experience 💼🌟
 
