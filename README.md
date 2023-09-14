@@ -36,7 +36,7 @@ In my previous roles, I have excelled in software development and engineering:
   - Contributed to documentation and maintained coding standards.
   - Kept up-to-date with industry trends and best practices.
 
-- **Jr. Associate - IT | Kanpur University**
+- **Jr. Associate - IT | Daffodil Software**
   - Engaged in collaborative efforts with project managers to discern ambitious coding milestones.
   - Facilitated in-depth discussions with team members to identify and address pertinent issues.
   - Spearheaded the introduction of agile methodologies and industry-leading development practices to enhance efficiency.
