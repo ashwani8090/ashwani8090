@@ -6,7 +6,7 @@ Welcome to my GitHub profile! Here, you'll find a brief overview of my skills, e
 
 ## Contact Information 📞📧
 
-- **LinkedIn**: [![LinkedIn](https://www.linkedin.com/in/ashwani-pratap-singh-951a5b1a8/) 🏠 Fatehgarh, Farrukhabad - 209601
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/ashwani-pratap-singh-951a5b1a8/)
 - **Email**: 📧 [ashwani8090singh@gmail.com](mailto:ashwani8090singh@gmail.com)
 - **GitHub**: 🌐 [github.com/ashwani8090](https://github.com/ashwani8090)
 - **Address**: 🏠 Fatehgarh, Farrukhabad - 209601
