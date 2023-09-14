@@ -1,11 +1,12 @@
 # ASHWANI PRATAP SINGH 👨‍💻
-## SOFTWARE DEVELOPER 🚀
+![image](https://github.com/ashwani8090/ashwani8090/assets/46552218/a5ba752b-4c20-442e-b8f3-a52b09838155)
 
+## SOFTWARE DEVELOPER 🚀
 Welcome to my GitHub profile! Here, you'll find a brief overview of my skills, experience, and how to get in touch with me. Feel free to explore my repositories and projects. 🌟
 
 ## Contact Information 📞📧
 
-- **Phone**: 📱 7880886868, 7088797590
+- **LinkedIn**: [![LinkedIn](https://www.linkedin.com/in/ashwani-pratap-singh-951a5b1a8/) 🏠 Fatehgarh, Farrukhabad - 209601
 - **Email**: 📧 [ashwani8090singh@gmail.com](mailto:ashwani8090singh@gmail.com)
 - **GitHub**: 🌐 [github.com/ashwani8090](https://github.com/ashwani8090)
 - **Address**: 🏠 Fatehgarh, Farrukhabad - 209601
