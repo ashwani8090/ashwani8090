@@ -4,6 +4,8 @@
 ## SOFTWARE DEVELOPER 🚀
 Welcome to my GitHub profile! Here, you'll find a brief overview of my skills, experience, and how to get in touch with me. Feel free to explore my repositories and projects. 🌟
 
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?username=ashwani8090)](https://www.buymeacoffee.com/ashwani8090)
+
 ## Contact Information 📞📧
 
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/ashwani-pratap-singh-951a5b1a8/)
